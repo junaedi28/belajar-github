@@ -15,13 +15,13 @@ Untuk daftar Tag HTML
 ## Daftar CSS
 Untuk daftar Tag CSS
 - menggunakan <class body> berisi perintah margin dan background image 
-- <class navbar> yang berisi position, width, background, dan padding
-- <class ul> berisi display, position, top, dan right
-- <class logo> perintah background-image
-- <class article-heading> untuk font-size
-- <class article-list> margin-top, background, margin dan width
-- <class article> untuk padding
-- <class footer> color, text-align, padding dan margin-top
+- "class navbar" yang berisi position, width, background, dan padding
+- "class ul" berisi display, position, top, dan right
+- "class logo" perintah background-image
+- "class article-heading" untuk font-size
+- "class article-list" margin-top, background, margin dan width
+- "class article" untuk padding
+- "class footer" color, text-align, padding dan margin-top
 
 ## ABOUT ME
 Perkenalkan saya Yoga Junaedi, saat ini berusia 24 tahun dan saya saat ini sedang belajar pemrograman
